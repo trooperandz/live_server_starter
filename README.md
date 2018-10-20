@@ -8,3 +8,5 @@ The Sass directory structure follows the 7-1 pattern.
  2) At the root directory, run `live-server`
  3) To enable Sass watching, run `npm run compile:sass`
  4) Have fun.
+ 
+ If your `live-server` command isn't working, try an additional `npm i -g live-server`
